@@ -50,7 +50,7 @@ class EggShell:
 
     # Actions
     def print_payload(self,payload,number_option):
-        print " " * 4 + str(number_option) + "): " + payload.name
+        print " " * 4 + str(number_option) + "): " + payload.name "
 
 
     def start_single_server(self):
